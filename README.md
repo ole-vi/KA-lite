@@ -1,6 +1,6 @@
 # KA-lite
 
-Khan Academy Lite Image (Tested on rpi3)
+Khan Academy Lite Image (Tested on rpi3, rpi-zero, and Laptop PC (x86_64))
 
 ## How to Use?
 
